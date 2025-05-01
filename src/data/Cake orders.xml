@@ -1,0 +1,32 @@
+<Orders>
+  <Order>
+    <OrderID>1</OrderID>
+    <Product>Chocolate Cake</Product>
+    <Quantity>2</Quantity>
+    <Price>20</Price>
+  </Order>
+  <Order>
+    <OrderID>2</OrderID>
+    <Product>Vanilla Cake</Product>
+    <Quantity>1</Quantity>
+    <Price>15</Price>
+  </Order>
+  <Order>
+    <OrderID>3</OrderID>
+    <Product>Red Velvet Cake</Product>
+    <Quantity>3</Quantity>
+    <Price>30</Price>
+  </Order>
+  <Order>
+    <OrderID>4</OrderID>
+    <Product>strawberry Cake</Product>
+    <Quantity>8</Quantity>
+    <Price>20</Price>
+  </Order>
+  <Order>
+    <OrderID>5</OrderID>
+    <Product>cheese lotus Cake</Product>
+    <Quantity>4</Quantity>
+    <Price>35</Price>
+  </Order>
+</Orders>

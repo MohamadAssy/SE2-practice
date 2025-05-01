@@ -1,0 +1,8 @@
+<Orders>
+  <Order>
+    <OrderID>1</OrderID>
+    <Product>Chocolate Cake</Product>
+    <Quantity>2<Quantity>
+    <Price>20</Price>
+  </Order>
+</Orders>

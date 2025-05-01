@@ -1,0 +1,5 @@
+[
+    { "OrderID": 1, "Product": "Chocolate Cake", "Quantity": 2, "Price": 20}
+    { "OrderID": 2, "Product": "Vanilla Cake", "Quantity": 1, "Price": 15 }
+  ]
+  
